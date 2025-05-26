@@ -4,7 +4,6 @@ A hands-on graduation project under the **Digital Egypt Pioneers Initiative (DEP
 The objective was to **design, implement, and secure** a simulated enterprise network interconnecting a main office with multiple branches using **Cisco technologies**.
 
 ---
-
 ## 🛠️ Project Overview
 
 This project simulates a real-world enterprise network setup, focusing on:
